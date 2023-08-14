@@ -1,0 +1,33 @@
+body { background-color: antiquewhite;}
+
+h1 {margin-left: 10cm; }
+
+p { margin-left: 3cm;}
+
+li.trabajo {
+    text-decoration-line: underline;
+}
+
+img {
+    float: right;
+    margin-right: 10cm;
+}
+
+h3.formulario {
+    font-style: italic;
+    color: rgb(119, 115, 115);
+   
+}
+h3.subtitulo {
+    text-decoration: underline;
+}
+
+#yo {
+    font-size: 115%;
+    text-decoration-line: underline;
+}
+
+#nombre {
+    font-style: oblique;
+
+}
